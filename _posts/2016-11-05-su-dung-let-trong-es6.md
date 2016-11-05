@@ -6,12 +6,14 @@ categories: huongph
 featured_image: /images/corver.jpg
 ---
 
-## Ready???
+
 
 Chúng ta thường sử dụng var để khai báo biến, trong ES6 cũng vậy nhưng có thêm let.
 Vậy `let` với `var` khác nhau chỗ nào.
 
 var khi khái báo thì nó có hai dạng , toàn cục và cục bộ. 
+
+## Ready???
 
 Ví dụ :
 
