@@ -1,0 +1,9 @@
+# Site settings
+title: "Where there's a will, there's a way" # Your Title
+tagline: 'All i have to do is learn Javascript' # A brief tagline for your site
+sidebar_image: /images/cover.jpg
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: https://es6script.github.io # the subpath of your site, e.g. /blog/
