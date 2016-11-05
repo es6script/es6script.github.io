@@ -6,6 +6,8 @@ categories: huongph
 featured_image: /images/corver.jpg
 ---
 
+## Ready???
+
 Chúng ta thường sử dụng var để khai báo biến, trong ES6 cũng vậy nhưng có thêm let.
 Vậy `let` với `var` khác nhau chỗ nào.
 
@@ -24,7 +26,7 @@ function name(){
 
 Còn với `let` thì phạm vi nó nhỏ hơn, nó chỉ tồn tại trong khối khai báo. Còn gọi là phạm vi Block scoped. Cho nên ta chú ý với những trường hợp nào mà sử dụng. 
 
-### Block Scoped là gì?
+## Block Scoped là gì?
 
 Block Scoped là phạm vi trong một khối, nghĩa là chỉ hoạt động trong phạm vi được khai báo bời cặp {}.
 
@@ -66,7 +68,7 @@ console.log(n); // Lỗi biến không tồn tại
 
 Qua ví dụ đó ta thấy cách hoạt động của `let` và `var` như thế nào.
 
-### Vậy khi nào nên sử dụng let để khai báo biến
+## Vậy khi nào nên sử dụng let để khai báo biến
 
 Đó là khi ta sử dụng biến tạm (tmp) trong function đó mấy chế. 
 
