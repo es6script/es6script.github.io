@@ -123,5 +123,5 @@ function Person(){
 
 var p = new Person();
 ```
-
+Kết luận : Mình thấy chẳng mạnh gì so với khai báo truyền thống, chỉ gọn hơn thôi. 
 ok nhé còn nhiều ví dụ các bạn có thể học thêm [Tai day](https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
